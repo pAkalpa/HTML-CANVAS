@@ -1,0 +1,8 @@
+#canvas {
+    border: 1px solid black;
+    /* Center Align */
+    display: block;
+    width: 600px;
+    height: 300px;
+    margin: 0 auto;
+}
